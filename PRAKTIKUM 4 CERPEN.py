@@ -10,6 +10,6 @@ story_plot2 = "Setelah sampai di sana, aku langsung mengenali wajah Ryujin."
 tempat = "Aku bertemu dengannya di perpustakaan tempat kita membaca buku semasa kecil."
 second_character = "Tidak banyak berubah dari Ryujin, dia masih senang membaca buku dan menulis buku seperti dulu sama sepertiku."
 usia = "Saat ini, Ryujin berusia 17 tahun."
-pekerjaan = "Aku ingat, dahulu Ryujin pernah berkata akan menjadi penulis saat berumur 20 tahun nanti."
+pekerjaan = "Aku ingat, dahulu Ryujin pernah berkata bahwa dia akan menjadi penulis saat berumur 20 tahun nanti."
 
 print (kalimat_starter, waktu, story_plot, tempat, story_plot2, second_character, karakter, usia, pekerjaan)
